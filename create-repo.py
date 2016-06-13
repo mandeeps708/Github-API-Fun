@@ -3,7 +3,7 @@
 
 """
 
-* File Name : get-list.py
+* File Name : create-repo.py
 
 * Purpose : Creating a new repository using Github API (PyGithub)
 
